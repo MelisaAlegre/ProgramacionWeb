@@ -15,7 +15,7 @@ export function loadHeader () {
         <div class="header-main">
             <div class="header-left">
                 <a href="${prefijo}index.html" class="logo-link">
-                    <img src="${prefijo}../img/Relatos & Hojas logo.png" alt="Logo de Relatos & Hojas" class="logo-img">
+                    <img src="${prefijo}img/Relatos & Hojas logo.png" alt="Logo de Relatos & Hojas" class="logo-img">
                 </a>
             </div>
 
